@@ -17,10 +17,10 @@ Budget Tracker with offline capabilities using MongoDB and IndexedDB
     npm install
     
 ## Usage
-npm start or use live site:
+npm start or use live site: https://mighty-chamber-24439.herokuapp.com/
     
 ## Images
-LINK TO IMAGES
+![assets/imgs/output.PNG](/assets/imgs/output.PNG)
 
 ## Licence
 This project is licensed under the terms of the MIT.
